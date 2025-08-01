@@ -1,0 +1,13 @@
+genotypename:   /rds/projects/h/haberm-emirates/exr390/pbs/bed/hgdp_LebanonAI_autosomes.geno
+snpname:        /rds/projects/h/haberm-emirates/exr390/pbs/bed/hgdp_LebanonAI_autosomes.snp
+indivname:      /rds/projects/h/haberm-emirates/exr390/pbs/bed/hgdp_LebanonAI_autosomes.v2.ind
+evecoutname:    pca_project.evec
+evaloutname:    pca_project.eval
+numoutevec:	10
+numoutlieriter:	0
+lsqproject:	YES
+autoshrink:	YES
+shrinkmode:	NO
+familynames:	NO
+numthreads:	6
+poplistname:	modernpoplist
