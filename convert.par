@@ -1,0 +1,9 @@
+genotypename:	hgdp_LebanonAI_autosomes.v2.ped
+snpname:	hgdp_LebanonAI_autosomes.v2.map
+indivname:	hgdp_LebanonAI_autosomes.v2.ped
+outputformat:	EIGENSTRAT
+genotypeoutname:	hgdp_LebanonAI_autosomes.geno
+snpoutname:	hgdp_LebanonAI_autosomes.snp
+indivoutname:	hgdp_LebanonAI_autosomes.ind
+familynames:	NO
+hashcheck:	NO
